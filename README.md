@@ -17,4 +17,4 @@ Results: Provide a bulleted list with three major points from the two analysis d
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-IN conclusion 
+In conclusion  we can gladly tell the client that leaving the ice cream shop open all year round would be profitable. We can conclude this because the temperature  average seems to be consistent in the winter months as it is in summer.  So there will be no deterrent  for a customer to go out and get ice cream because it is "too cold"
